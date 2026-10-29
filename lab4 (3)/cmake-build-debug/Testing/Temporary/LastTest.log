@@ -1,0 +1,75 @@
+Start testing: Oct 29 13:55 Беларусь (зима)
+----------------------------------------------------------
+1/1 Testing: lab4_tests
+1/1 Test: lab4_tests
+Command: "C:/Users/Kseta/Downloads/lab4 (3)/cmake-build-debug/lab4_tests.exe"
+Directory: C:/Users/Kseta/Downloads/lab4 (3)/cmake-build-debug
+"lab4_tests" start time: Oct 29 13:55 Беларусь (зима)
+Output:
+----------------------------------------------------------
+[ OK ] sort_empty_and_single
+[ OK ] sort_ints_vector
+[ OK ] sort_descending_with_comparator
+[ OK ] sort_c_array
+[ OK ] sort_iterator_range_partial
+[ OK ] sort_other_containers
+[ OK ] sort_strings
+[ OK ] sort_is_stable
+[ OK ] sort_matches_std_sort_random
+[ OK ] sort_already_sorted_large_no_stack_overflow
+[ OK ] sort_student_objects
+[ OK ] student_basics
+[ OK ] is_sorted_range_works
+[ OK ] radix_empty_and_single
+[ OK ] radix_signed_ints_with_negatives
+[ OK ] radix_descending
+[ OK ] radix_various_integer_widths
+[ OK ] radix_c_array_and_pointer_range
+[ OK ] radix_forward_iterators
+[ OK ] radix_strings_ascending_and_prefixes
+[ OK ] radix_strings_descending
+[ OK ] radix_strings_non_ascii_utf8
+[ OK ] radix_is_stable_with_key
+[ OK ] radix_custom_class_by_string_and_int_keys
+[ OK ] radix_matches_std_stable_sort_random
+[ OK ] radix_all_equal_and_long_identical_strings_no_stack_overflow
+[ OK ] graph_default_is_empty
+[ OK ] graph_counts_and_presence
+[ OK ] graph_degrees
+[ OK ] graph_edge_degree
+[ OK ] graph_add_errors
+[ OK ] graph_remove_edge
+[ OK ] graph_remove_vertex
+[ OK ] graph_clear
+[ OK ] graph_vertex_iterators
+[ OK ] graph_edge_iterators
+[ OK ] graph_edge_iterators_skip_vertices_without_edges
+[ OK ] graph_incident_iterators
+[ OK ] graph_adjacent_iterators
+[ OK ] graph_erase_vertex_by_iterator
+[ OK ] graph_erase_edge_by_iterator
+[ OK ] graph_copy_constructor_and_assignment
+[ OK ] graph_comparison_operators
+[ OK ] graph_output_uses_iterators
+[ OK ] graph_generic_int_values
+[ OK ] cli_sort_algorithm_menu
+[ OK ] cli_sort_numbers_both_algorithms
+[ OK ] cli_sort_c_array_both_algorithms
+[ OK ] cli_sort_strings_both_algorithms
+[ OK ] cli_sort_students_both_algorithms
+[ OK ] cli_graph_basic_flow
+[ OK ] cli_graph_removal_and_errors
+[ OK ] cli_graph_iterators_all_modes
+[ OK ] cli_graph_erase_by_iterator
+[ OK ] cli_graph_copy_and_clear
+
+РўРµСЃС‚РѕРІ: 55, РїСЂРѕРІРµСЂРѕРє: 342, РїСЂРѕРІР°Р»РѕРІ: 0
+<end of output>
+Test time =   2.67 sec
+----------------------------------------------------------
+Test Passed.
+"lab4_tests" end time: Oct 29 13:55 Беларусь (зима)
+"lab4_tests" time elapsed: 00:00:02
+----------------------------------------------------------
+
+End testing: Oct 29 13:55 Беларусь (зима)
